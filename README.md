@@ -54,6 +54,22 @@ Visit Google AI Studio
 Create API key
 Copy the generated key
 
+Manual Deployment
+Push to GitHub
+Connect to Vercel
+Add environment variables
+Deploy
+🤝 Contributing
+Fork the project
+Create feature branch (git checkout -b feature/amazing-feature)
+Commit changes (git commit -m 'Add amazing feature')
+Push to branch (git push origin feature/amazing-feature)
+Open Pull Request
+📄 License
+This project is licensed under the MIT License.
+
+
+
 
 
 
