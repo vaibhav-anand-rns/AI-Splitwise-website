@@ -23,5 +23,24 @@ AI: Google Gemini API
 Deployment: Vercel
 
 
+# Clone the repo
+git clone https://github.com/yourusername/ai-splitwise.git
+cd ai-splitwise
+
+# Install dependencies
+npm install
+
+# Start the backend
+cd backend
+npm install
+npm run dev
+
+# Start the frontend
+cd ../frontend
+npm install
+npm start
+
+
+
 
 
