@@ -14,4 +14,14 @@ AI Splitwise is a web application that simplifies expense tracking and bill spli
 
 ☁️ Persistent Storage – Store data in a backend database for continuity across sessions.
 
+🛠 Tech Stack
+Frontend: Next.js 15, React, Tailwind CSS, Shadcn UI
+Backend: Next.js API Routes, Server Actions
+Database: PostgreSQL (Neon) with Prisma ORM
+Authentication: Clerk
+AI: Google Gemini API
+Deployment: Vercel
+
+
+
 
