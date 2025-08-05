@@ -1,1 +1,17 @@
+💸 AI Splitwise – Smart Bill Splitting with AI
+AI Splitwise is a web application that simplifies expense tracking and bill splitting using the power of AI. Inspired by the popular Splitwise app, this version includes AI-assisted parsing of natural language expense inputs, automatic calculation of splits, and a smooth user experience for managing group expenses.
+
+✨ Features
+🧠 AI-Powered Input Parsing – Add expenses by typing natural language like “John paid $45 for groceries, split between 3 people”.
+
+👥 Group & Individual Expenses – Track who owes whom across group and individual transactions.
+
+📊 Real-Time Balance Calculations – Instantly see how much each person owes or is owed.
+
+🗂️ Expense History – Full log of all group expenses with timestamps and payer/split info.
+
+🛠️ Editable Entries – Easily update or delete expense records.
+
+☁️ Persistent Storage – Store data in a backend database for continuity across sessions.
+
 
