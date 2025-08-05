@@ -40,6 +40,22 @@ cd ../frontend
 npm install
 npm start
 
+🔑 API Keys Setup
+Neon Database
+Create account at Neon Console
+Create new project
+Copy connection string
+Clerk Authentication
+Create account at Clerk Dashboard
+Create new application
+Copy API keys from dashboard
+Google Gemini AI
+Visit Google AI Studio
+Create API key
+Copy the generated key
+
+
+
 
 
 
